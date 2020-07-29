@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://user-images.githubusercontent.com/67113216/88807959-43b25080-d180-11ea-837a-a6a8152e0038.jpg" alt="JBaileyNotebook" width="10%" height="10%">
+<img align="right" src="https://user-images.githubusercontent.com/67113216/88807959-43b25080-d180-11ea-837a-a6a8152e0038.jpg" alt="JBaileyNotebook" width="10%" height="8%">
 
 ### Hi, I'm Sam. Lovely to meet you 😄 
 

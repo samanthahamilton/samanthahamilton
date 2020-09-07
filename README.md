@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I like to consider myself a technical writer, though perhaps 'communicator' would be a more apt description. I have a background in health and science research, copyediting, and documentation.
 
-You can check out my portfolio, [darling docs](https://darlingdocs.wordpress.com/), to view a collection of my previous projects. 
+You can check out my portfolio, [darling docs](https://darlingdocs.com), to view a collection of my previous projects. 
 
 I look forward to working with you.
 
@@ -30,5 +30,5 @@ I look forward to working with you.
 - 👯 I’m looking to collaborate on: Projects that need help with editing, documentation, and communication
 - 🌱 I’m currently learning: Various programming languages
 - 💬 Ask me about: Anything nutrition, physiology, or animal science related
-- 📫 How to reach me: On [GitHub](https://github.com/samanthahamilton), [LinkedIn](https://www.linkedin.com/in/shamilton-64b4b71b0/), and through my portfolio, [darling docs](https://darlingdocs.wordpress.com/)
+- 📫 How to reach me: On [GitHub](https://github.com/samanthahamilton), [LinkedIn](https://www.linkedin.com/in/shamilton-darlingdocs), and through my portfolio, [darling docs](https://www.darlingdocs.com/)
 - ⚡ Fun fact: My dog is a Spanish greyhound (a Galgo Español) but has a French name ("Guimauve" = marshmallow)

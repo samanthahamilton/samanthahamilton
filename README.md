@@ -9,11 +9,11 @@ You can check out my portfolio, [darling docs](https://darlingdocs.com), to view
 I look forward to working with you.
 
 <blockquote align="center">
-  Some Quick Info
+  Some quick info
  </blockquote>
 
 - ✨ I’m looking to collaborate on: Projects that need help with editing, documentation, and communication.
-- 🌱 I’m currently learning: More about programming languages. Right now I'm taking a Python course.
+- 🌱 I’m currently learning: More programming languages. Right now I'm taking a Python course.
 - 💬 Ask me about: Why documentation is so important! Or anything related to nutrition, physiology, and animal sciences.
 - 📫 How to reach me: On [GitHub](https://github.com/samanthahamilton), [LinkedIn](https://www.linkedin.com/in/shamilton-darlingdocs), and through my portfolio, [darling docs](https://www.darlingdocs.com/).
 - ⚡ Fun fact: My dog is a Spanish greyhound (a Galgo Español) but has a French name ("Guimauve" = marshmallow).
